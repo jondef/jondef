@@ -1,4 +1,4 @@
-##### Hi there 👋
+### Hi there 👋
 
 ### Computer Specifications
 CPU: Intel Core i7 6700k (4.5GHz @ 1.280V)\
