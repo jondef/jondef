@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=jondef" alt="jondef" />
+
 ### Computer Specifications
 CPU: Intel Core i7 6700k (4.5GHz @ 1.280V)\
 GPU: ROG Strix GeForce® GTX 1060 OC edition
