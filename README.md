@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=jondef" alt="jondef" />
+![](https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c)
 
 ### Computer Specifications
 CPU: Intel Core i7 6700k (4.5GHz @ 1.280V)\
