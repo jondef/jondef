@@ -1,9 +1,13 @@
 <!-- maybe include a gif instead -->
+<img src="https://user-images.githubusercontent.com/23141863/119359694-2d92f500-bcaa-11eb-9696-fbba61f96454.png" width="1800"/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/23141863/119359694-2d92f500-bcaa-11eb-9696-fbba61f96454.png" width="1800"/>
-  💻<img style='vertical-align:middle;' src="https://user-images.githubusercontent.com/23141863/119360786-464fda80-bcab-11eb-8197-c2fa35fd161d.png" width="24"/>I'm a Swiss computer engineering student who loves to code. <img src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
-</p>
+<div align="center">
+  <img style='vertical-align:middle;' src='https://user-images.githubusercontent.com/23141863/119362313-db9f9e80-bcac-11eb-93a2-68609f056ece.png' width="32">
+  <div style='vertical-align:middle; display:inline;'>
+    💻I'm a Swiss computer engineering student who loves to code.💻
+  </div>
+  <img style='vertical-align:middle;' src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
+</div>
 
 ----------------
 
