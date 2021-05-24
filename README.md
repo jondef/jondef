@@ -4,7 +4,7 @@
 <div align="center">
   <img style='vertical-align:middle;' src='https://user-images.githubusercontent.com/23141863/119362313-db9f9e80-bcac-11eb-93a2-68609f056ece.png' width="32">
   <div style='vertical-align:middle; display:inline;'>
-    💻I'm a Swiss computer engineering student who loves to code.💻
+    💻I'm a Swiss computer science student who loves to code.💻
   </div>
   <img style='vertical-align:middle;' src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
 </div>
