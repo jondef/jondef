@@ -1,7 +1,7 @@
 <!-- maybe include a gif instead -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/23141863/119355459-962ba300-bca5-11eb-80c1-f3bae87cbba2.png" width="1800"/>
+  <img src="https://user-images.githubusercontent.com/23141863/119359694-2d92f500-bcaa-11eb-9696-fbba61f96454.png" width="1800"/>
   💻🚩I'm a Swiss computer engineering student who loves to code. <img src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
 </p>
 
