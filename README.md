@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/23141863/119359694-2d92f500-bcaa-11eb-9696-fbba61f96454.png" width="1800"/>
-  💻🚩I'm a Swiss computer engineering student who loves to code. <img src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
+  💻<img style='vertical-align:middle;' src="https://user-images.githubusercontent.com/23141863/119360786-464fda80-bcab-11eb-8197-c2fa35fd161d.png" width="24"/>I'm a Swiss computer engineering student who loves to code. <img src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
 </p>
 
 ----------------
