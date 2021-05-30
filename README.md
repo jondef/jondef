@@ -8,7 +8,7 @@
   </div>
   <img style='vertical-align:middle;' src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
 </div>
-
+  
 ----------------
 
 <p align="center">
@@ -18,8 +18,12 @@ I am passionate about new technologies in general, with Big Data, cybersecurity 
 
 ----------------
 
-
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jondef/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jon-defilla/)
 <!--
+https://simpleicons.org/
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 **jondef/jondef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
