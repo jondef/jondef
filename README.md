@@ -26,9 +26,9 @@ I am passionate about new technologies in general, with Big Data, cybersecurity 
 
 ----------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jondef&show_icons=true&hide_title=true&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jondef&layout=compact&theme=buefy)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jondef&layout=default&border_color=2e4058&theme=buefy)
+![github stats](https://github-readme-stats.vercel.app/api?username=jondef&show_icons=true&hide_title=true&count_private=true&show_icons=true&theme=buefy&border_color=2e4058)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jondef&layout=compact&theme=buefy&border_color=2e4058)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jondef&layout=default&theme=buefy&border_color=2e4058)
 
 <!--
 https://simpleicons.org/
