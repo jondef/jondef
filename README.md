@@ -2,11 +2,7 @@
 <img src="https://user-images.githubusercontent.com/23141863/122545462-269f9e00-d02e-11eb-8e1c-ebbe93dc3085.jpg" width="1800"/>
 
 <div align="center">
-  <img style='vertical-align:middle;' src='https://user-images.githubusercontent.com/23141863/119362313-db9f9e80-bcac-11eb-93a2-68609f056ece.png' width="32">
-  <div style='vertical-align:middle; display:inline;'>
-    💻I'm a Swiss Computer Science student who loves to code.💻
-  </div>
-  <a href="https://github.com/jondef/">
+   <a href="https://github.com/jondef/">
     <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jon-defilla/">
