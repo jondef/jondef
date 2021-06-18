@@ -34,7 +34,7 @@ I am passionate about new technologies in general, with Big Data, cybersecurity 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondef&layout=compact&theme=buefy&border_color=2e4058" />
   </a>
   <a href="https://github.com/jondef/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jondef&layout=compact&theme=buefy&border_color=2e4058" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jondef&langs_count=50&layout=default&line_height=20&theme=buefy&border_color=2e4058" />
   </a>
 </div>
 
