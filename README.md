@@ -1,5 +1,5 @@
 <!-- maybe include a gif instead -->
-<img src="https://user-images.githubusercontent.com/23141863/119359694-2d92f500-bcaa-11eb-9696-fbba61f96454.png" width="1800"/>
+<img src="https://user-images.githubusercontent.com/23141863/122545462-269f9e00-d02e-11eb-8e1c-ebbe93dc3085.jpg" width="1800"/>
 
 <div align="center">
   <img style='vertical-align:middle;' src='https://user-images.githubusercontent.com/23141863/119362313-db9f9e80-bcac-11eb-93a2-68609f056ece.png' width="32">
