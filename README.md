@@ -27,7 +27,7 @@ I am passionate about new technologies in general, with Big Data, cybersecurity 
     <img src="https://github-readme-stats.vercel.app/api?username=jondef&show_icons=true&hide_title=true&count_private=true&show_icons=true&theme=buefy&border_color=2e4058" />
   </a>
   <a href="https://github.com/jondef/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondef&layout=compact&theme=buefy&border_color=2e4058" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondef&layout=compact&langs_count=6&theme=buefy&border_color=2e4058" />
   </a>
   <a href="https://github.com/jondef/">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jondef&langs_count=10&layout=compact&custom_title=Wakatime%20Stats&line_height=20&theme=buefy&border_color=2e4058" />
