@@ -6,7 +6,6 @@
   <div style='vertical-align:middle; display:inline;'>
     💻I'm a Swiss Computer Science student who loves to code.💻
   </div>
-  <img style='vertical-align:middle;' src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
 </div>
   
 ----------------
@@ -18,8 +17,14 @@ I am passionate about new technologies in general, with Big Data, cybersecurity 
 
 ----------------
 
+![github stats](https://github-readme-stats.vercel.app/api?username=jondef&show_icons=true&hide_title=true&count_private=true&show_icons=true&theme=buefy&border_color=2e4058&bg_color=30,d95b42,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jondef&layout=compact&border_color=2e4058&bg_color=30,9c518b,6f3d74&title_color=fff&text_color=fff)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jondef&layout=default&border_color=2e4058&bg_color=30,bd596b,6f3d74&title_color=fff&text_color=fff)
+
+
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jondef/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jon-defilla/)
+<img style='vertical-align:middle;' src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=dc143c">
 <!--
 https://simpleicons.org/
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
