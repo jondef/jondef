@@ -34,7 +34,7 @@ I am passionate about new technologies in general, with Big Data, cybersecurity 
   </a>
   <a href="https://appsec-peaks.swisscom.com/" target="_blank" rel="nofollow noopener noreferrer">
      <img src="https://badges.swisscom.com/appsec-peaks/a6fbc93e-b3ee-488d-8408-6638ce4e7ea3/badge.png" alt="AppSec Peaks Certification Badge"/>
-   </a>
+  </a>
 </div>
 
 
