@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/jon-defilla/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/jonledon12/">
+    <img align="center" style='vertical-align:middle;' height=28 src="  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://github.com/jondef/">
     <img align="center" style='vertical-align:middle;' height=28 src="https://komarev.com/ghpvc/?username=jondef&style=flat-square&color=8e72dc"/>
   </a>
